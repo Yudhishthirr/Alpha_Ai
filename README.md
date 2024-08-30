@@ -17,4 +17,4 @@ Clerk Authentication: Secure and user-friendly authentication system to manage u
 
 License
 
-![AI Image](public/images/aiimage.png)
+![AI Image](aiimage.png)
