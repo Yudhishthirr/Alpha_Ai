@@ -1,6 +1,4 @@
-# Project Title
-
-ALPHA AI
+#ALPHA AI
 
 An innovative AI SaaS platform that empowers users to effortlessly create AI-generated images, music, code, and content tailored to their daily needs. Built with Next.js, it leverages the Gemini API for advanced AI capabilities, MongoDB for robust data management, and Clerk for seamless authentication.
 
